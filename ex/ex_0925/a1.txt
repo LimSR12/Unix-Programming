@@ -1,0 +1,9 @@
+합계 32
+drwxr-xr-x. 2 s19010801 class 4096 2024-09-25 15:42 .
+drwxr-xr-x. 3 s19010801 class 4096 2024-09-25 15:03 ..
+-rw-r--r--. 1 s19010801 class    0 2024-09-25 15:42 a1.txt
+-rwxr-xr-x. 1 s19010801 class 7003 2024-09-25 15:25 ex1
+-rw-r--r--. 1 s19010801 class  424 2024-09-25 15:25 ex1.c
+-rwxr-xr-x. 1 s19010801 class 7584 2024-09-25 15:42 ex2
+-rw-r--r--. 1 s19010801 class  559 2024-09-25 15:42 ex2.c
+lrwxrwxrwx. 1 s19010801 class    8 2024-09-25 15:25 test_sym.sym -> test_sym

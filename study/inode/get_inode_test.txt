@@ -1,0 +1,5 @@
+합계 12
+drwxr-xr-x. 2 s19010801 class 4096 2024-10-02 17:15 .
+drwxr-xr-x. 3 s19010801 class 4096 2024-10-02 17:10 ..
+-rw-r--r--. 1 s19010801 class  353 2024-10-02 17:14 get_inode_info.c
+-rw-r--r--. 1 s19010801 class    0 2024-10-02 17:15 get_inode_test.txt
